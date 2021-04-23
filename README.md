@@ -1,6 +1,6 @@
 ## Hello stranger 👋 I'm Juli Azzini
 
-#### 💻 Soy desarrolladora FrontEnd
+### 💻 Soy desarrolladora FrontEnd
 - ⚛️ Actualmente trabajo con React
 - Me inicié en el mundo IT hace un año y durante estos meses aprendí
   - HTML
@@ -14,9 +14,7 @@
   - MongoDB
   - Express  
 
-
-
-#### Algo más sobre mí
+### Algo más sobre mí
 - 📌 Vivo en Buenos Aires, Argentina
 - 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
@@ -24,6 +22,6 @@
   - 📚 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
-#### :envelope: Podés contactarme por 
+### :envelope: Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
 - ✨ Twitter: https://twitter.com/azzinijuli
