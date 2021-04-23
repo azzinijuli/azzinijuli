@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello stranger 👋 I'm Juli Azzini
 
-<!--
-**azzinijuli/azzinijuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Soy desarrolladora FrontEnd
+- ⚛️ Actualmente trabajo con React
+- Me inicié en el mundo IT hace un año y durante estos meses aprendí
+  - HTML
+  - CSS
+  - SASS
+  - JavaScript
+  - React
+  - Next.js
+- 🔜 Próximamente voy a aprender
+  - Node.js
+  - MongoDB
+  - Express  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Algo más sobre mí
+- 📌 Vivo en Buenos Aires, Argentina
+- 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
+  - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
+  - 👩‍🏫 Fui docente de Historia, Geografía e Inglés
+  - 📚 En un futuro planeo aprender alemán
+- 🌱 Respeto y promuevo el amor a la naturaleza y los animales
+
+#### :envelope: Podés contactarme por 
+- ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
+- ✨ Twitter: https://twitter.com/azzinijuli
