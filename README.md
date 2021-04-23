@@ -1,6 +1,6 @@
 ## Hello stranger 👋 I'm Juli Azzini
 
-### 💻 Soy desarrolladora FrontEnd
+### 💻 Soy Desarrolladora Frontend
 - ⚛️ Actualmente trabajo con React
 - Me inicié en el mundo IT hace un año y durante estos meses aprendí
   - HTML
