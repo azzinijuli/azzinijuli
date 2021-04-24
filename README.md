@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/61996469/115950455-bd7a2f00-a4b1-11eb-8448-a93133c35341.png)
+
 ## Nice to see you here 👋 
 
 ### 💻 Julieta Azzini - Desarrolladora Frontend
@@ -15,8 +17,6 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - MongoDB
   - Express  
 
-![banner](http://heartfull.life/wp-content/uploads/sites/6/2016/04/divider_ribbon2.png)
-
 ### 🖤 Algo más sobre mí
 - 📌 Vivo en Buenos Aires, Argentina
 - 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
@@ -28,3 +28,5 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
 ### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
 - ✨ Twitter: https://twitter.com/azzinijuli
+
+![banner](https://user-images.githubusercontent.com/61996469/115950455-bd7a2f00-a4b1-11eb-8448-a93133c35341.png)
