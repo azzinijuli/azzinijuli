@@ -19,7 +19,7 @@
 - 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
   - 👩‍🏫 Fui docente de Historia, Geografía e Inglés
-  - 🇩🇪 En un futuro planeo aprender alemán
+  - 📚 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
 ### ✉️ Podés contactarme por 
