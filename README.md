@@ -14,14 +14,14 @@
   - MongoDB
   - Express  
 
-### Algo más sobre mí
+### 🖤 Algo más sobre mí
 - 📌 Vivo en Buenos Aires, Argentina
 - 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
   - 👩‍🏫 Fui docente de Historia, Geografía e Inglés
-  - 📚 En un futuro planeo aprender alemán
+  - 🇩🇪 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
-### :envelope: Podés contactarme por 
+### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
 - ✨ Twitter: https://twitter.com/azzinijuli
