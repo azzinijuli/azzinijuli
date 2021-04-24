@@ -1,8 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/61996469/115950455-bd7a2f00-a4b1-11eb-8448-a93133c35341.png)
 
-## Nice to see you here 👋 
+### Nice to see you here 👋 
 
-### 💻 Julieta Azzini - Desarrolladora Frontend
+#### 💻 Julieta Azzini - Desarrolladora Frontend
 Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pero durante el último año comencé a incursionar en el mundo IT y desde que lo hice no dejé de aprender. Me interioricé en el desarrollo web y busco día a día perfeccionarme en las últimas tecnologías e incorporar nuevas herramientas. 
 - ⚛️ Actualmente trabajo con React
 - 🚀 Durante estos meses aprendí
@@ -17,7 +17,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - MongoDB
   - Express  
 
-### 🖤 Algo más sobre mí
+#### 🖤 Algo más sobre mí
 - 📌 Vivo en Buenos Aires, Argentina
 - 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
@@ -25,7 +25,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - 📚 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
-### ✉️ Podés contactarme por 
+#### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
 - ✨ Twitter: https://twitter.com/azzinijuli
 
