@@ -15,9 +15,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - MongoDB
   - Express  
 
-
-![banner](https://user-images.githubusercontent.com/61996469/115949898-6aeb4380-a4ae-11eb-8264-adea861743c6.png)
-
+![banner](https://lh3.googleusercontent.com/proxy/-LDYb4505Htk3fDD4uASrd2j79rr_NMX6V-c7HdTrAxqg1iWWOXb92VtDUfFs4d3l9myQjbAdYU1TuHacVzBvA8MUM0cndDTv_kl9E8BSlHHtwQj45F0hE7VAm2_yyL0nYZeGoY4WMs)
 
 ### 🖤 Algo más sobre mí
 - 📌 Vivo en Buenos Aires, Argentina
@@ -27,9 +25,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - 📚 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
-
-![banner](https://user-images.githubusercontent.com/61996469/115949898-6aeb4380-a4ae-11eb-8264-adea861743c6.png)
-
+![banner](https://lh3.googleusercontent.com/proxy/-LDYb4505Htk3fDD4uASrd2j79rr_NMX6V-c7HdTrAxqg1iWWOXb92VtDUfFs4d3l9myQjbAdYU1TuHacVzBvA8MUM0cndDTv_kl9E8BSlHHtwQj45F0hE7VAm2_yyL0nYZeGoY4WMs)
 
 ### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
