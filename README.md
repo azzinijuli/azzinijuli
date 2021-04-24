@@ -3,7 +3,7 @@
 ### 💻 Julieta Azzini - Desarrolladora Frontend
 Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pero durante el último año comencé a incursionar en el mundo IT y desde que lo hice no dejé de aprender. Me interioricé en el desarrollo web y busco día a día perfeccionarme en las últimas tecnologías e incorporar nuevas herramientas. 
 - ⚛️ Actualmente trabajo con React
-- Durante estos meses aprendí
+- 🚀 Durante estos meses aprendí
   - HTML
   - CSS
   - SASS
