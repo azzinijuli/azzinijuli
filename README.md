@@ -25,8 +25,6 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - 📚 En un futuro planeo aprender alemán
 - 🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
-![banner](http://heartfull.life/wp-content/uploads/sites/6/2016/04/divider_ribbon2.png)
-
 ### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
 - ✨ Twitter: https://twitter.com/azzinijuli
