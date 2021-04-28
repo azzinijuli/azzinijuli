@@ -27,6 +27,5 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
 
 #### ✉️ Podés contactarme por 
 - ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
-- ✨ Twitter: https://twitter.com/azzinijuli
 
 ![banner](https://user-images.githubusercontent.com/61996469/115950455-bd7a2f00-a4b1-11eb-8448-a93133c35341.png)
