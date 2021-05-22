@@ -12,8 +12,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - SASS
   - JavaScript
   - React
-  - Next.js
-<br>
+  - Next.js<br>
 🔜 Próximamente voy a aprender
   - Node.js
   - MongoDB
@@ -21,12 +20,11 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
 
 #### 🖤 Algo más sobre mí <br>
 📌 Vivo en Buenos Aires, Argentina <br>
+🌱 Respeto y promuevo el amor a la naturaleza y los animales
 🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo <br>
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
   - 👩‍🏫 Fui docente de Historia, Geografía e Inglés
   - 📚 En un futuro planeo aprender alemán
- <br>
-🌱 Respeto y promuevo el amor a la naturaleza y los animales
 
 #### ✉️ Podés contactarme por 
 ✨ LinkedIn: https://www.linkedin.com/in/julietaazzini/
