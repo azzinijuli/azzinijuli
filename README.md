@@ -6,7 +6,7 @@
 Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pero durante el último año comencé a incursionar en el mundo IT y desde que lo hice no dejé de aprender. Me interioricé en el desarrollo web y busco día a día perfeccionarme en las últimas tecnologías e incorporar nuevas herramientas. <br>
 
 ⚛️ Actualmente trabajo con React <br>
-🚀 Durante estos meses aprendí
+🚀 Durante estos meses aprendí <br>
   - HTML
   - CSS
   - SASS
@@ -21,7 +21,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
 
 #### 🖤 Algo más sobre mí <br>
 📌 Vivo en Buenos Aires, Argentina <br>
-🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo
+🤓 Disfruto mucho estudiar y siempre estar aprendiendo algo nuevo <br>
   - 👩‍🎓 Soy estudiante avanzada de la Lic. en Historia en la UBA
   - 👩‍🏫 Fui docente de Historia, Geografía e Inglés
   - 📚 En un futuro planeo aprender alemán <br>
