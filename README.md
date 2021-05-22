@@ -12,7 +12,7 @@ Hola! Soy Juli, programadora junior. Anteriormente me dediqué a la docencia, pe
   - SASS
   - JavaScript
   - React
-  - Next.js <br> 
+  - Next.js </br>
 🔜 Próximamente voy a aprender
   - Node.js
   - MongoDB
